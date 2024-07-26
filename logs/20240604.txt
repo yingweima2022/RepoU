@@ -1,0 +1,24 @@
+2024-06-04 23:31:58.986 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 2.531(s), this was the 1st time calling it. exp: 请求失败。
+Message: {"code": 200, "data": "{\"error\":{\"message\":\"Incorrect API key provided: sk-proj-********************************************POgz. You can find your API key at https://platform.openai.com/account/api-keys.\",\"type\":\"invalid_request_error\",\"param\":null,\"code\":\"invalid_api_key\"}}", "message": "success"}
+2024-06-04 23:34:53.580 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 1.197(s), this was the 1st time calling it. exp: 请求失败。
+Message: {"code": 500, "message": "\u670d\u52a1\u5668\u5f02\u5e38:this model not in idealab"}
+2024-06-04 23:36:01.118 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 1.329(s), this was the 1st time calling it. exp: 请求失败。
+Message: {"code": 500, "message": "\u670d\u52a1\u5668\u5f02\u5e38:this model not in idealab"}
+2024-06-05 00:02:26.633 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 11.218(s), this was the 1st time calling it. exp: 请求失败。
+Message: {"code": 200, "data": "{\"timestamp\":\"2024-06-04T16:02:26.560+00:00\",\"status\":500,\"error\":\"Internal Server Error\",\"path\":\"/v1/chat/completions\"}", "message": "success"}
+2024-06-05 01:01:39.443 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 92.955(s), this was the 1st time calling it. exp: 请求失败。
+Message: {"code": 500, "message": "\u670d\u52a1\u5668\u5f02\u5e38:('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"}
+2024-06-05 01:07:21.363 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 11.133(s), this was the 1st time calling it. exp: 请求失败。
+Message: {"code": 200, "data": "{\"timestamp\":\"2024-06-04T17:07:21.201+00:00\",\"status\":500,\"error\":\"Internal Server Error\",\"path\":\"/v1/chat/completions\"}", "message": "success"}
+2024-06-05 01:09:09.235 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 118.993(s), this was the 2nd time calling it. exp: 请求失败。
+Message: {"code": 500, "message": "\u670d\u52a1\u5668\u5f02\u5e38:('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"}
+2024-06-05 01:58:01.278 | INFO     | MCTS.Lingma.ask_llm_location_file:parse_response:252 - Extract files to modify error: list index out of range
+2024-06-05 02:21:06.268 | INFO     | MCTS.Lingma.ask_llm_location_file:parse_response:252 - Extract files to modify error: list index out of range
+2024-06-05 02:21:48.185 | INFO     | MCTS.Lingma.ask_llm_location_file:parse_response:252 - Extract files to modify error: list index out of range
+2024-06-05 02:25:47.698 | INFO     | MCTS.Lingma.ask_llm_location_file:parse_response:252 - Extract files to modify error: list index out of range
+2024-06-05 02:28:03.002 | INFO     | MCTS.Lingma.ask_llm_location_file:parse_response:252 - Extract files to modify error: list index out of range
+2024-06-05 02:28:09.334 | INFO     | MCTS.Lingma.ask_llm_location_file:parse_response:252 - Extract files to modify error: list index out of range
+2024-06-05 02:31:29.569 | INFO     | MCTS.Lingma.ask_llm_location_file:parse_response:252 - Extract files to modify error: list index out of range
+2024-06-05 02:31:50.152 | INFO     | MCTS.Lingma.ask_llm_location_file:parse_response:252 - Extract files to modify error: list index out of range
+2024-06-05 03:28:23.248 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 110.957(s), this was the 1st time calling it. exp: 请求失败。
+Message: {"code": 500, "message": "\u670d\u52a1\u5668\u5f02\u5e38:('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"}

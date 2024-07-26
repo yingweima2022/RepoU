@@ -1,0 +1,125 @@
+2024-06-05 15:44:20.505 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 903.059(s), this was the 1st time calling it. exp: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2024-06-05 23:38:03.421 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 0.422(s), this was the 1st time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:38:52.177 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 49.179(s), this was the 2nd time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:39:14.697 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 71.699(s), this was the 3rd time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:39:15.582 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 72.584(s), this was the 4th time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:40:01.573 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 118.575(s), this was the 5th time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:40:17.375 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 0.459(s), this was the 1st time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:41:04.883 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 47.966(s), this was the 2nd time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:41:34.475 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 77.559(s), this was the 3rd time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:42:08.575 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 111.659(s), this was the 4th time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:42:13.227 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 116.311(s), this was the 5th time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:42:28.728 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 0.420(s), this was the 1st time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:43:07.488 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 39.180(s), this was the 2nd time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:43:19.762 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 51.454(s), this was the 3rd time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:43:21.724 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 53.416(s), this was the 4th time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:44:01.678 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 93.377(s), this was the 5th time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:44:18.003 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 0.416(s), this was the 1st time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:44:35.814 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 18.229(s), this was the 2nd time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:45:07.410 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 49.826(s), this was the 3rd time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:45:38.678 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 81.094(s), this was the 4th time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:45:46.611 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 89.026(s), this was the 5th time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:46:03.306 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 0.428(s), this was the 1st time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:46:12.892 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 10.015(s), this was the 2nd time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:46:19.206 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 16.329(s), this was the 3rd time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:46:20.367 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 17.490(s), this was the 4th time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:46:45.203 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 42.325(s), this was the 5th time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:47:01.802 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 0.480(s), this was the 1st time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:47:50.551 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 49.230(s), this was the 2nd time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:47:54.264 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 52.942(s), this was the 3rd time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:48:21.752 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 80.431(s), this was the 4th time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:48:45.568 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 104.246(s), this was the 5th time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:49:02.458 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 0.463(s), this was the 1st time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:49:32.965 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 30.970(s), this was the 2nd time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:49:37.853 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 35.859(s), this was the 3rd time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:50:07.282 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 65.288(s), this was the 4th time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:50:21.315 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 79.321(s), this was the 5th time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:50:38.112 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 0.479(s), this was the 1st time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:51:06.380 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 28.748(s), this was the 2nd time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:51:39.093 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 61.461(s), this was the 3rd time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:52:03.611 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 85.979(s), this was the 4th time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:52:21.878 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 104.246(s), this was the 5th time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:52:38.665 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 0.419(s), this was the 1st time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:52:51.638 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 13.393(s), this was the 2nd time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:53:38.823 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 60.576(s), this was the 3rd time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:54:02.021 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 83.775(s), this was the 4th time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:54:29.036 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 110.790(s), this was the 5th time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:54:46.327 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 0.539(s), this was the 1st time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:54:47.764 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 1.976(s), this was the 2nd time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:55:13.668 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 27.880(s), this was the 3rd time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:55:14.389 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 28.601(s), this was the 4th time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:55:22.083 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 36.295(s), this was the 5th time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:55:38.929 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 0.478(s), this was the 1st time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:56:03.026 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 24.575(s), this was the 2nd time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:56:22.329 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 43.878(s), this was the 3rd time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:56:25.562 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 47.111(s), this was the 4th time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:56:55.418 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 76.967(s), this was the 5th time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:57:12.341 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 0.538(s), this was the 1st time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:57:21.093 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 9.290(s), this was the 2nd time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:57:49.395 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 37.592(s), this was the 3rd time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:57:57.100 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 45.297(s), this was the 4th time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:58:44.398 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 92.596(s), this was the 5th time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:59:01.715 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 0.448(s), this was the 1st time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
+2024-06-05 23:59:40.688 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.chat' after 39.426(s), this was the 2nd time calling it. exp: 请求失败。
+Message: {"code": 429, "data": {}, "message": "token limit exceeded. use 200024609/200000000"}
