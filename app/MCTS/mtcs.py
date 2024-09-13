@@ -6,7 +6,7 @@ import random
 import heapq
 from tqdm import tqdm
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from MCTS.Lingma.run_gpt_and_bm25 import get_summary_results
+from MCTS.core.run_gpt_and_bm25 import get_summary_results
 # from MCTS.mtcs_repo_graph import Action
 
 def randomPolicy(state):

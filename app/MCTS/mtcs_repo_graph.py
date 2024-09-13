@@ -4,8 +4,8 @@ from copy import deepcopy
 from MCTS.mtcs import mcts, treeNode
 import pickle
 import time
-from MCTS.Lingma.run_gpt_and_bm25 import get_gpt4_and_bm25_results, get_bm25_score, get_bm25_retriever, get_reward_value, get_summary_results
-from MCTS.Lingma.graph_meta_info import get_graph_info_filter, save_graph, load_graph
+from MCTS.core.run_gpt_and_bm25 import get_gpt4_and_bm25_results, get_bm25_score, get_bm25_retriever, get_reward_value, get_summary_results
+from MCTS.core.graph_meta_info import get_graph_info_filter, save_graph, load_graph
 """
 class Node:
     def __init__(self, obj_name: str, node_type: str, path: str,

@@ -10,8 +10,8 @@ import numpy as np
 import glob
 from sklearn.metrics.pairwise import cosine_similarity
 import concurrent.futures
-from MCTS.Lingma.bm25 import BM25Retriever
-from MCTS.Lingma.ask_llm_location_file import run_FilesExtraction, get_RewardValue, get_SummaryResults
+from MCTS.core.bm25 import BM25Retriever
+from MCTS.core.ask_llm_location_file import run_FilesExtraction, get_RewardValue, get_SummaryResults
 random.seed(1234)
 
 

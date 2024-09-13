@@ -3,9 +3,9 @@ import pickle
 
 import jedi
 
-from MCTS.Lingma.search_utils import get_all_py_files, get_all_classes_in_file, get_class_signature, get_all_funcs_in_class_in_file
-from MCTS.Lingma.search_utils import get_func_snippet_in_class, get_top_level_functions, get_code_snippets, get_global_variables_corrected
-from MCTS.Lingma.search_utils import get_class_content
+from MCTS.core.search_utils import get_all_py_files, get_all_classes_in_file, get_class_signature, get_all_funcs_in_class_in_file
+from MCTS.core.search_utils import get_func_snippet_in_class, get_top_level_functions, get_code_snippets, get_global_variables_corrected
+from MCTS.core.search_utils import get_class_content
 from enum import Enum
 from tqdm import tqdm
 

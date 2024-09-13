@@ -1,3 +1,0 @@
-2024-05-18 02:34:32.116 | ERROR    | metagpt.utils.common:log_it:554 - Finished call to 'MCTS.Lingma.ask_llm_location_file.ChatGPT.get_reward' after 305.139(s), this was the 1st time calling it. exp: 请求失败。
-Message: {"code":500,"message":"服务器异常:('Connection broken: IncompleteRead(0 bytes read)', IncompleteRead(0 bytes read))"}
-

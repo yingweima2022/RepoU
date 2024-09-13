@@ -12,7 +12,7 @@ import argparse
 
 def my_retry_error_callback(retry_state):
     """在重试结束且失败后调用的函数，返回自定义的默认值"""
-    # return "retry error callback mingwei", None
+    # return "retry error callback", None
     return -1, None
 
 
@@ -220,7 +220,6 @@ Code:
 Thought:
 """
 
-# tongyi
 token = 'your token here'
 url = "your url"
 
@@ -303,44 +302,6 @@ class ChatGPT:
                 raise Exception("请求失败。\nMessage: {}".format(resp.text))
         else:
             raise Exception("请求失败。\nMessage: {}".format(resp.text))
-
-    @retry(
-        wait=wait_random_exponential(min=10, max=50),
-        stop=stop_after_attempt(5),
-        after=general_after_log(logger),
-        retry_error_callback=my_retry_error_callback
-    )
-    def chat_with_Qwen(self, prompt, history=None):
-        if history is None:
-            history = []
-
-        messages = history + [{"role": "user", "content": prompt}]
-        history = messages
-
-        dashscope.api_key = 'sk-6bddfc116de744c3aa1d66893cc87b20'
-        response = dashscope.Generation.call(
-            model='qwen-max-longcontext',  # llama3-8b-instruct qwen-max-longcontext
-            messages=messages,
-            result_format='message',  # set the result to be "message" format.
-        )
-
-        if response.status_code != HTTPStatus.OK:
-            raise Exception('Request id: %s, Status code: %s, error code: %s, error message: %s' % (
-                response.request_id, response.status_code,
-                response.code, response.message
-            ))
-
-        if response and response.get('output'):
-            data = response['output']
-            if data.get('choices'):
-                reply = data['choices'][0]['message']
-                history.append({'role': 'assistant', 'content': reply['content']})
-                return self.parse_response(reply['content']), history
-            else:
-                raise Exception("请求失败。\nMessage: {}".format(response))
-        else:
-            raise Exception("请求失败。\nMessage: {}".format(response))
-
     @retry(
         wait=wait_random_exponential(min=10, max=50),
         stop=stop_after_attempt(5),
@@ -428,43 +389,6 @@ class ChatGPT:
                 raise Exception("请求失败。\nMessage: {}".format(resp.text))
         else:
             raise Exception("请求失败。\nMessage: {}".format(resp.text))
-
-    @retry(
-        wait=wait_random_exponential(min=10, max=50),
-        stop=stop_after_attempt(5),
-        after=general_after_log(logger),
-        retry_error_callback=my_retry_error_callback
-    )
-    def get_reward_with_Qwen(self, prompt, history=None):
-        if history is None:
-            history = []
-
-        messages = history + [{"role": "user", "content": prompt}]
-        history = messages
-
-        dashscope.api_key = 'sk-6bddfc116de744c3aa1d66893cc87b20'
-        response = dashscope.Generation.call(
-            model='qwen-max-longcontext',  # llama3-8b-instruct qwen-max-longcontext
-            messages=messages,
-            result_format='message',  # set the result to be "message" format.
-        )
-
-        if response.status_code != HTTPStatus.OK:
-            raise Exception('Request id: %s, Status code: %s, error code: %s, error message: %s' % (
-                response.request_id, response.status_code,
-                response.code, response.message
-            ))
-
-        if response and response.get('output'):
-            data = response['output']
-            if data.get('choices'):
-                reply = data['choices'][0]['message']
-                history.append({'role': 'assistant', 'content': reply['content']})
-                return self.parse_value_score(reply['content']), history
-            else:
-                raise Exception("请求失败。\nMessage: {}".format(response))
-        else:
-            raise Exception("请求失败。\nMessage: {}".format(response))
 
 @retry(
         wait=wait_random_exponential(min=10, max=50),
