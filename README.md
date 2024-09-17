@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-**RepoUnderstander/RepoUnderstander** is a ✨ Official implementation ✨ repository of paper "How to Understand Whole Repository?".
+**RepoU** is a ✨ Official implementation ✨ repository of paper "RepoUnderstander: Enhancing Automated Issue Resolving with Comprehensive Repository Knowledge Exploration".
 
 - Recently, Large Language Model (LLM) based agents have advanced the significant development of Automatic Software Engineering (ASE).
 - We develop a novel ASE method named RepoUnderstander by guiding agents to comprehensively understand the whole repositories.
