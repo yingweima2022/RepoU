@@ -115,7 +115,7 @@ def extract_gpt_func_calls(
 
 def my_retry_error_callback(retry_state):
     """在重试结束且失败后调用的函数，返回自定义的默认值"""
-    # return "retry error callback mingwei", None
+    # return "retry error callback", None
     print("retry error callback, retry state: {}".format(retry_state))
     return None
 
