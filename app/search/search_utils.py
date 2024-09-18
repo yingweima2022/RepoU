@@ -7,7 +7,6 @@ from typing import List, Optional, Tuple
 
 from app import utils as apputils
 
-# mingwei修改
 @dataclass
 class SearchResult:
     """Dataclass to hold search results."""
