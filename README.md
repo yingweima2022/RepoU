@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-**RepoU** is a ✨ Official implementation ✨ repository of paper "Alibaba LingmaAgent: Improving Automated Issue Resolution via Comprehensive Repository Exploration".
+**RepoU** is a ✨ Official implementation ✨ repository of paper "Improving Automated Issue Resolution via Comprehensive Repository Exploration".
 
 - Recently, Large Language Model (LLM) based agents have advanced the significant development of Automatic Software Engineering (ASE).
 - We develop a novel ASE method named RepoUnderstander by guiding agents to comprehensively understand the whole repositories.
